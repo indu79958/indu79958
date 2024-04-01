@@ -3,7 +3,7 @@
 - 👀 I’m interested in [coding, technology, and learning new things](https://github.com/indu79958)
 - 🌱 I’m currently learning [web development and data science](https://github.com/indu79958)
 - 💞️ I’m looking to collaborate on [open-source projects and coding challenges](https://github.com/indu79958)
-- 📫 How to reach me: [You can reach me via email at example@example.com](mailto:example@example.com)
+- 📫 How to reach me: [You can reach me via email at satyaindu19l31a1922](mailto:satyaindu19l31a1922@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to bake cookies while coding! 🍪👩‍💻
 
